@@ -1,0 +1,1 @@
+GnericsClass.IntegerPrinter
